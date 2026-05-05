@@ -1,6 +1,7 @@
+
 Week 1 - Day 1
 
-🔗 Topics Covered
+Topics Covered
 
 Basic SQL Queries
 
@@ -18,7 +19,9 @@ Sorting using ORDER BY
 
 
 
-🔗 Work Done
+---
+
+Work Done
 
 Designed database schema with three tables:
 
@@ -35,13 +38,21 @@ Practiced and solved SQL queries from 1 to 30
 
 Implemented filtering, grouping, and aggregation operations
 
-🔗 Tools Used
 
-DB Fiddle (for writing and testing SQL queries)
 
-GitHub (for version control and documentation)
+---
 
-🔗 Learnings
+Tools Used
+
+DB Fiddle
+
+GitHub
+
+
+
+---
+
+Learnings
 
 Gained understanding of SQL basics
 
@@ -57,21 +68,32 @@ Applied HAVING for filtering grouped results
 
 Practiced sorting data using ORDER BY
 
-🔗 Next Plan
+
+
+---
+
+Next Plan
 
 Complete remaining SQL queries (31–65)
 
-Practice JOIN operations (INNER, LEFT, RIGHT)
+Practice JOIN operations
 
 Learn nested and correlated queries
 
-Improve query optimization and writing efficiency
+Improve query writing skills
 
 
 
+---
 
-🔗 Progress
+Progress
 
 Completed queries 1–30
 
-Remaining queries will be completed in upcoming days
+Remaining queries will be completed next
+
+
+
+---
+
+If you want, I can make it more professional like your senior’s repo style.
