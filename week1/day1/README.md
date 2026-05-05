@@ -1,7 +1,7 @@
 
-Week 1 - Day 1
+->Week 1 - Day 1
 
-Topics Covered
+->Topics Covered
 
 Basic SQL Queries
 
@@ -21,7 +21,7 @@ Sorting using ORDER BY
 
 ---
 
-Work Done
+->Work Done
 
 Designed database schema with three tables:
 
@@ -42,7 +42,7 @@ Implemented filtering, grouping, and aggregation operations
 
 ---
 
-Tools Used
+->Tools Used
 
 DB Fiddle
 
@@ -52,7 +52,7 @@ GitHub
 
 ---
 
-Learnings
+->Learnings
 
 Gained understanding of SQL basics
 
@@ -72,7 +72,7 @@ Practiced sorting data using ORDER BY
 
 ---
 
-Next Plan
+->Next Plan
 
 Complete remaining SQL queries (31–65)
 
@@ -86,7 +86,7 @@ Improve query writing skills
 
 ---
 
-Progress
+->Progress
 
 Completed queries 1–30
 
@@ -96,4 +96,3 @@ Remaining queries will be completed next
 
 ---
 
-If you want, I can make it more professional like your senior’s repo style.
